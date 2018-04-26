@@ -1,0 +1,5 @@
+.DS_Store*
+data/
+lib/
+bin/
+share/
